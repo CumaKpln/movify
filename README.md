@@ -32,6 +32,4 @@ Frontend **React + Tailwind CSS**, Backend ise **Node.js + Express + MySQL** kul
 - Multer (dosya upload için)
 - Nodemailer (şifre sıfırlama & mail güncelleme için)
 
----
 
-## 📂 Proje Yapısı
